@@ -13,10 +13,11 @@ from qdrant_client import QdrantClient
 from qdrant_client.models import VectorParams, Distance
 
 from qdrant_client import QdrantClient
+from langchain_huggingface import HuggingFaceEmbeddings
+
 
 qdrant_client = QdrantClient(
-    url="https://41696e48-ee43-4811-901f-cc66429757dd.us-east4-0.gcp.cloud.qdrant.io:6333",
-    api_key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.QG0B8gDPhf6LyLT-H1lQCVlb4CLv3YOJj2GFAiMpGlE",
+    url="http://localhost:6333"
 )
 
 print(qdrant_client.get_collections())
@@ -180,14 +181,16 @@ def get_org_workspace_vectorstore(organization_id, workspace_id):
     try:
         qdrant_client.get_collection(collection_name=collection_name)
     except Exception:
-        qdrant_client.recreate_collection(
-            collection_name=collection_name,
-            vectors_config=VectorParams(size=1536, distance=Distance.COSINE)
-        )
-    embedding = OllamaEmbeddings(model="deepseek-r1:1.5b")  # Ensure the model is available
+        if not qdrant_client.collection_exists(collection_name):
+            qdrant_client.create_collection(
+                collection_name=collection_name,
+                vectors_config=VectorParams(size=768, distance=Distance.COSINE)
+            )
+
+    embedding = OllamaEmbeddings(model="nomic-embed-text")  # Ensure the model is available
     return QdrantVectorStore(qdrant_client, collection_name, embedding=embedding)
 
-def split_document(document, chunk_size=1000, chunk_overlap=50):
+def split_document(document, chunk_size=2000, chunk_overlap=300):
     """Split a document into chunks using RecursiveCharacterTextSplitter."""
     splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
     return splitter.split_documents([document])
@@ -212,7 +215,7 @@ def add_chunks_to_qdrant(chunks, organization_id, workspace_id, batch_size=20, m
 
 def notify_indexed_document(template_id, filename, organization_id, workspace_id):
     """Notify an external service that a document was indexed."""
-    url = "http://localhost:8081/add-document/"
+    url = "http://localhost:8000/add-document/"
     payload = {
         "file_id": str(template_id),
         "filename": str(filename),
@@ -237,7 +240,7 @@ def process_file(file_tuple):
     """Process a single TXT file: load, split, index, and notify."""
     file_path, metadata = file_tuple
     document = load_document_from_txt(file_path, metadata)
-    chunks = split_document(document, chunk_size=1000, chunk_overlap=50)
+    chunks = split_document(document, chunk_size=2000, chunk_overlap=300)
     print(f"File {os.path.basename(file_path)} split into {len(chunks)} chunks.")
     add_chunks_to_qdrant(chunks, metadata["organization_id"], metadata["workspace_id"])
     # After indexing, notify the external service.

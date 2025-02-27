@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain_community
+pypdf
+qdrant_client
+python-multipart
+uvicorn
+jq
+python-dotenv
+psycopg2
+langchain_qdrant
+langchain_ollama
+langchain_huggingface
