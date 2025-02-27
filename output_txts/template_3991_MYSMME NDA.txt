@@ -1,0 +1,192 @@
+Title Page
+notused
+This MUTUAL CONFIDENTIALITY AND NONDISCLOSURE AGREEMENT (Agreement), effective as of the date last signed below by the parties (Effective Date), is entered into between NomiaDocs Africa (Company) and @Party2Full (Customer) to protect the Confidential Information (as defined below) to be disclosed between the parties for the Purpose ( as defined below ).above 
+This MUTUAL CONFIDENTIALITY AND NONDISCLOSURE AGREEMENT (Agreement), effective as of the date last signed below by the parties (Effective Date), is entered into between NomiaDocs Africa (Company) and @Party2Full (Customer) to protect the Confidential Information (as defined below) to be disclosed between the parties for the Purpose ( as defined below ).above 
+This MUTUAL CONFIDENTIALITY AND NONDISCLOSURE AGREEMENT (Agreement), effective as of the date last signed below by the parties (Effective Date), is entered into between NomiaDocs Africa (Company) and @Party2Full (Customer) to protect the Confidential Information (as defined below) to be disclosed between the parties for the Purpose ( as defined below ).above 
+
+notused
+For the purposes of this Agreement, Company means NomiaDocs Africa , with its place of business located at: 456 Company road, Companyville, 3000  
+
+notused
+
+The terms Receiving Entity and Disclosing Enity as used in this Agreement shall mean either the Company or the Customer as the case may be.
+  
+
+notused
+This Agreement is intended to allow the parties to continue to discuss and evaluate their Purpose ( @Purpose ) while protecting each party's Confidential Information against unauthorized use or disclosure.  
+
+notused
+IT IS HEREBY AGREED AS FOLLOWS:  
+
+notused
+1739  
+
+notused
+@DocumentDescr
+
+notused
+CUSTOMER NAME AND REGISTRATION NO: !TC@Party2Full / @Party2Reg!TRADDRESS: !TC@Party2Addr
+
+Confidential Information Ownership and Warranties
+
+Confidential Information is and shall remain the exclusive property of the Disclosing Party. No license whatsoever is implied from this Agreement. Confidential Information is provided as is and without any warranty of any kind. The Receiving Party understands and agrees that the Disclosing Party has not made and shall not make any representation or warranty as to the accuracy or completeness of Confidential Information. The Disclosing Party shall not have any liability resulting from the use of Confidential Information by the Receiving Party. The Agreement shall not be construed by either party in any manner to be an obligation to enter into a subsequent agreement of any kind, or to develop any business relationship beyond the scope of the Purpose. 
+
+NonDisclosure of Confidential Information
+
+The Receiving Party agrees: 
+
+
+except as permitted by this Agreement, not to disclose to any third party or to publish any Confidential Information in any manner, for any reason or purpose whatsoever without the prior written consent of the Disclosing Party. Notwithstanding the foregoing, the parties may disclose such information to one or more third parties performing services in the course and scope of executing and/or giving effect to the Purpose where: 
+
+
+such disclosure is necessary or otherwise naturally occurs in that entity's scope of responsibility and  
+
+
+the entity agrees in writing to assume the obligations described in this agreement. 
+
+
+except as permitted by this Agreement, not to utilise, employ, exploit or in any other manner whatsoever use the Confidential Information for any purpose whatsoever without the prior written consent of the Disclosing Party 
+
+
+to restrict the dissemination of the Confidential Information only to those of its personnel who are actively involved in activities for which use of Confidential Information is authorised and then only on a need to know basis and the Receiving Party will initiate, maintain and monitor internal security procedures reasonably acceptable to the Disclosing Party to prevent unauthorised disclosure by its personnel 
+
+
+to take all practical steps, both before and after disclosure, to impress upon its personnel who are given access to Confidential Information the secret and confidential nature thereof and 
+
+
+that it accepts full responsibility and liability for its personnels and/or affiliates compliance with the terms of this Agreement. 
+
+Required Disclosure
+
+If Confidential Information must be disclosed pursuant to a judicial order or lawful requirement of Governmental agency or by operation of law, but then only to the extent so ordered in such case, the Receiving Party, will to the extent permitted by law: 
+
+
+advise the Disclosing Party at the earliest possible time prior to disclosure in order to give the Disclosing Party sufficient time to respond to such order 
+
+
+cooperate with the Disclosing Party so that it may object or seek a protective order or other appropriate remedy and 
+
+
+in any event disclose only that portion of the Confidential Information that is legally required to be disclosed. 
+
+Exceptions
+
+The obligations set forth in this Agreement shall not apply to Confidential Information that: 
+
+
+is or becomes generally available to the public without breach of the confidentiality obligations of the Receiving Party 
+
+
+was known by the Receiving Party prior to its disclosure by the Disclosing Party as proven by the Receiving Party's written records  
+
+
+becomes available to the Receiving Party on a nonconfidential basis from a source other than the Disclosing Party provided such source is not bound by a confidentiality agreement with the Disclosing Party or 
+
+
+developed independently, as evidenced by appropriate documentation, by the Receiving Party without reference to the Confidential Information. 
+
+Acknowledgment of Importance of Confidential Information
+
+The Receiving Party acknowledges the great importance of the Confidential Information to the Disclosing Party and recognizes that the Disclosing Party may suffer irreparable harm or loss in the event of such information being disclosed or used otherwise than in accordance with this agreement. 
+
+Miscellaneous
+
+This Agreement constitutes the entire agreement and understanding of the parties concerning the subject matter hereof and supersedes all prior or contemporaneous proposals or agreements, oral or written, and all other prior or contemporaneous communications between the parties, regarding the subject matter of this Agreement. 
+
+
+Any modifications to this Agreement must be made in writing and must be signed by an authorized representative of each party. 
+
+
+No waiver by any party of any of the provisions hereof shall be effective unless explicitly set forth in writing and signed by the party so waiving. 
+
+
+If any portion of this Agreement is determined to be invalid, illegal or unenforceable, the remainder will continue to be in effect. 
+
+
+Failure by either party to enforce any provision of this Agreement will not be deemed a waiver of future enforcement of that or any other provision. 
+
+
+This Agreement may be executed in counterparts each of which shall be deemed an original, but all of which together shall be deemed to be one and the same agreement. A signed copy of this Agreement exchanged by email or other means of electronic transmission shall be deemed to have the same legal effect as delivery of an original signature. 
+
+
+Neither party may assign any of its rights or delegate any of its obligations hereunder without the prior written consent of the other party. Any purported assignment or delegation in violation of this clause shall be null and void. No assignment or delegation shall relieve the assigning or delegating party of any of its obligations hereunder.
+ 
+
+notused
+For Nomia Africa (Pty) LTD!TRwho warrants that they are duly authorised.!TRSignature:!TR@CompSig!TRName:!TR@CompSigName!TRDesignation:!TR@CompSigDesig!TRDate:!TR@CompSigDate!TRat:!TR@CompSigLoc 
+For Nomia Africa (Pty) LTD!TRwho warrants that they are duly authorised.!TRSignature:!TR@CompSig!TRName:!TR@CompSigName!TRDesignation:!TR@CompSigDesig!TRDate:!TR@CompSigDate!TRat:!TR@CompSigLoc 
+
+notused
+For  @Party2Full!TRwho warrants that they are duly authorised.!TRSignature:!TR@PartySig!TRName:!TR@PartySigName!TRDesignation:!TR@PartySigDesig!TRDate:!TR@PartySigDate!TRat:!TR@PartySigLoc  
+For  @Party2Full!TRwho warrants that they are duly authorised.!TRSignature:!TR@PartySig!TRName:!TR@PartySigName!TRDesignation:!TR@PartySigDesig!TRDate:!TR@PartySigDate!TRat:!TR@PartySigLoc  
+
+notused
+{"type":"Columns"}
+
+notused
+{"type":"Columns"}
+
+notused
+{"type":"Columns"}
+
+notused
+----- !page-break! -----
+
+Compliance and Governing Law
+
+The parties shall comply with all applicable laws, rules and regulations in connection with its activities under this Agreement and shall obtain and maintain all permits, licenses and Government registrations necessary or appropriate to perform its obligations under this Agreement.  
+
+
+This Agreement shall be will be governed by and construed in accordance with the laws of South Africa and the parties agree to be subject to the exclusive jurisdiction of the Courts of Gauteng such governing laws are exclusive of any provisions of the United Nations 1980 Convention on Contracts for Sale of Goods, including any amendments thereto, and without regard to principles of conflicts of law. 
+
+Term and Termination
+
+This Agreement shall remain in effect for a period of two (2) years from the Effective Date unless terminated earlier by either party. Either party may terminate this Agreement by giving ten (10) days written notice to the other party. Notwithstanding any other clause to the contrary contained herein, the obligations pursuant to clauses ##s26324## , ##s26326## and ##e96665## will survive for a period of five (5) years from the date of disclosure of Confidential Information by the Disclosing Party or until such Confidential Information is deemed no longer confidential (whichever is sooner). 
+
+Confidential Information
+
+The parties agree that Confidential Information shall mean any and all information or data of any nature, tangible or intangible, oral or in writing and in any format or medium, which by its nature or content is or ought reasonably to be identifiable as confidential and/or proprietary to the customer or which is provided or disclosed in confidence, and which the Disclosing Customer or any person acting on behalf of the Disclosing Party may disclose or provide to the Receiving Party or which may come to the knowledge of the Receiving Party by whatsoever means. Without limitation, the Confidential Information of the Disclosing Party shall include the following even if it is not as being confide    ntial, restricted else or proprietary (or any similar designation):v 
+The parties agree that Confidential Information shall mean any and all information or data of any nature, tangible or intangible, oral or in writing and in any format or medium, which by its nature or content is or ought reasonably to be identifiable as confidential and/or proprietary to the customer or which is provided or disclosed in confidence, and which the Disclosing Customer or any person acting on behalf of the Disclosing Party may disclose or provide to the Receiving Party or which may come to the knowledge of the Receiving Party by whatsoever means. Without limitation, the Confidential Information of the Disclosing Party shall include the following even if it is not as being confide    ntial, restricted else or proprietary (or any similar designation):v 
+The parties agree that Confidential Information shall mean any and all information or data of any nature, tangible or intangible, oral or in writing and in any format or medium, which by its nature or content is or ought reasonably to be identifiable as confidential and/or proprietary to the customer or which is provided or disclosed in confidence, and which the Disclosing Customer or any person acting on behalf of the Disclosing Party may disclose or provide to the Receiving Party or which may come to the knowledge of the Receiving Party by whatsoever means. Without limitation, the Confidential Information of the Disclosing Party shall include the following even if it is not as being confide    ntial, restricted else or proprietary (or any similar designation):v 
+The parties agree that Confidential Information shall mean any and all information or data of any nature, tangible or intangible, oral or in writing and in any format or medium, which by its nature or content is or ought reasonably to be identifiable as confidential and/or proprietary to the customer or which is provided or disclosed in confidence, and which the Disclosing Customer or any person acting on behalf of the Disclosing Party may disclose or provide to the Receiving Party or which may come to the knowledge of the Receiving Party by whatsoever means. Without limitation, the Confidential Information of the Disclosing Party shall include the following even if it is not as being confide    ntial, restricted else or proprietary (or any similar designation):v 
+The parties agree that Confidential Information shall mean any and all information or data of any nature, tangible or intangible, oral or in writing and in any format or medium, which by its nature or content is or ought reasonably to be identifiable as confidential and/or proprietary to the customer or which is provided or disclosed in confidence, and which the Disclosing Customer or any person acting on behalf of the Disclosing Party may disclose or provide to the Receiving Party or which may come to the knowledge of the Receiving Party by whatsoever means. Without limitation, the Confidential Information of the Disclosing Party shall include the following even if it is not as being confide    ntial, restricted else or proprietary (or any similar designation):v 
+
+
+any information relating to property, development proposals, plans, drawings, feasibility studies, intellectual property, products, research and development, market opportunities, customers, statistics, pricing, reports, systems, marketing, methods, promotional and advertising plans and strategies, financial plans and models, employees and office bearers, and business affairs of the Disclosing Party 
+
+
+the contractual and financial arrangements between the Disclosing Party and others with whom it has business arrangements of whatsoever nature, including potential customers/clients, suppliers and service providers and business associates of the Disclosing Party whom it has not yet contacted but intends contacting for the purposes of doing business 
+
+
+all other matters or information which relate or may relate to the business affairs of the Disclosing Party in respect of which information is not readily available in the ordinary course of business to a competitor of the Disclosing Party 
+
+
+details of the financial structure and/or operating results of the Disclosing Party or any of its affiliates 
+
+
+details of any shareholding or ownership arrangements in respect of the Disclosing Party 
+
+
+the fact of and content of: 
+
+
+this Agreement;  
+
+
+the Purpose and 
+
+
+any agreement which may be concluded between the Parties pursuant to the Purpose.  
+
+
+Information which is disclosed in circumstances of confidence or would be understood by the Parties, exercising reasonable business judgment, to be Confidential Information and 
+
+
+all other Confidential Information in whatever form, disclosed or communicated to the Receiving Party or acquired by the Receiving Party from the Disclosing Party. 
+
+notused
+{"type":"Columns"} 
+
+Breach
+
+The parties acknowledge that a violation of the Receiving Party's obligations with respect to Confidential Information may cause irreparable harm to the Disclosing Party for which a remedy at law would be inadequate. Therefore, in addition to any and all remedies available at law, the Disclosing Party shall be entitled to seek an injunction or other equitable remedies in all legal proceedings in the event of any threatened or actual violation of any or all of the provisions hereof.  

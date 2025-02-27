@@ -1,0 +1,10 @@
+**Narrow Signatures - for multicolumn**
+notused
+For Nomia Africa (Pty) LTD!TRwho warrants that they are duly authorised.!TRSignature:!TR@CompSig!TRName:!TR@CompSigName!TRDesignation:!TR@CompSigDesig!TRDate:!TR@CompSigDate!TRat:!TR@CompSigLoc
+
+notused
+For @PartyFull!TRwho warrants that they are duly authorised.!TRSignature:!TR@PartySig!TRName:!TR@PartySigName!TRDesignation:!TR@PartySigDesig!TRDate:!TR@PartySigDate!TRat:!TR@PartySigLoc
+
+Wide Signatures - for singlecolumn
+notused
+For Nomia Africa (Pty) LTD!TC!TCFor @PartyFull!TRwho warrants that they are duly authorised.!TC!TCwho warrants that they are duly authorised.!TRSignature:!TC!TCSignature:!TR@CompSig!TC!TC@PartySig!TRName:!TC!TCName:!TR@CompSigName!TC!TC@PartySigName!TRDesignation:!TC!TCDesignation:!TR@CompSigDesig!TC!TC@PartySigDesig!TRDate:!TC!TCDate:!TR@CompSigDate!TC!TC@PartySigDate!TRat:!TC!TCat:!TR@CompSigLoc!TC!TC@PartySigLoc

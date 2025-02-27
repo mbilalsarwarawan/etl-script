@@ -1,0 +1,344 @@
+INTRODUCTION
+
+Nomia engages the Consultant to provide the Services. The Parties agree that the Consultant will render the Services on the terms and conditions set out in this Agreement. 
+
+DEFINITIONS
+
+**Confidential Information**: any confidential information including but not limited to artistic works, designs, drawings, sketches, software, plans, technical knowhow and data, methods, client or customer lists, marketing, trading and merchandising methods, financial information, any program, patents, trademarks, copyrights, business strategies, trade secrets, the methods of implementing business strategies, the contractual arrangements with customers and suppliers, and financial details of relationships with customers and supplier.  
+
+notused
+{"type":"Columns"}
+
+notused
+**Consultant:** @Party2Full, @Party2Role, ID Number : @Party2Reg  
+
+notused
+**Contract Fee** the consideration to the paid by Nomia to the Consultant in terms of clause **10** in return for the rendering of the Services as set out more fully in Annexure A 
+
+notused
+**Contract Period** the period commencing on the Effective Date and ending on the Termination Date  
+
+notused
+_**Yes**: Youth Employment Service NPC with registration number **2017**/**267641**/**08**_, a NonProfit Company operating from **2** Arnold , Rosebank, **2196** in the business of creating one million work opportunities for unemployed youth in South Africa or the Client*  
+
+notused
+**Intellectual Property:** All inventions, improvements and patents, patent applications, and patent disclosures and extensions or additions, all trademarks, trademark applications, logos, trade names and corporate names, (including all domain names, internet and intranet names, addresses, icons and other designations useful to identify or locate either Party or any of its services or products on a computer network such as the world wide web), together with all translations, adaptations, derivations and combinations and including all goodwill and any applications or registrations, all works capable of copyright, all copyright, all trade secrets and business information (including ideas, research and development, knowhow, formulas, compositions, manufacturing and production processes and techniques, technical data, designs, drawings, specifications, customer and supply lists, pricing and cost information, and business and marketing plans and proposals) all computer software (including data and related documentation) and all copies and tangible examples thereof, in any form or medium  
+
+notused
+**Parties:** the Consultant and Nomia/ The Client, and Party shall have the same meaning as the context requires 
+
+notused
+**Termination Date** , being the date of termination of the Agreement, unless an extension is agreed in writing by the parties of the agreement  
+
+notused
+**Services** the services to be performed by the Consultant as detailed in Annexure A  
+
+notused
+
+
+APPOINTMENT
+
+Nomia appoints the Consultant, who accepts the appointment as an independent contractor, to provide the Services for the Contract Period. 
+
+STATUS
+
+The Consultant will provide the Services to Nomia as an independent contractor. The Parties agree that this Agreement does not give rise to any employment relationship between the Consultant and Nomia. As a result: 
+
+
+this Agreement is not subject to any employment laws or regulations 
+
+
+the Consultant will not join or subscribe to any retirement, pension funds or medical aid schemes which Yes may participate in or contribute to for the benefit of its employees and 
+
+
+the Consultant wont be entitled to any paid annual leave, sick leave or family responsibility leave, or any other benefits which normally accrue to employees of Nomia 
+
+
+the Consultant may take reasonable time off from rendering the Services. Any time off taken by the Consultant shall be at the Consultants own cost and expense. The Consultant shall not take any time off without the prior agreement of .Nomia 
+
+
+the Consultant cant bind Yes to any contracts or assume any obligation or responsibility for or on behalf of Yes or act as an agent on Yess behalf unless it has been expressly agreed to in respect of the Services and 
+
+
+this Agreement does not contemplate the employment of the Consultant by Yes now or at any time in the future. 
+
+
+The Consultant waives any claims against Yes that may arise from an employment relationship, including, but not only: 
+
+
+any claim for retrenchment pay 
+
+
+any claim for leave pay other than what is set out in this Agreement 
+any claim for leave pay other than what is set out in this Agreement 
+
+
+any claim for outstanding pay, overtime, severance pay, bonuses, incentives, share options, commission and 
+
+
+any claim for unlawful and/or unfair dismissal, unfair labour practice or unfair discrimination. 
+
+DURATION
+
+The Consultant will begin rendering the Services on **@EffectiveDate** (Effective Date) and the Agreement will terminate automatically on the last day of the Contract Period being **@EndDate** without either party needing to give the other notice of termination of any kind.  
+
+
+Yes may renew or extend the Agreement for a further period agreed between the Parties, by giving written notice to that effect at least two weeks before the Contract Period ends. Any renewal or extension must be in writing and on the same terms and conditions contained in this Agreement, unless the Parties agree otherwise in writing. 
+
+
+Notwithstanding the provisions of clause 5, this Agreement may be stopped in accordance with the provisions of clause ##s26345## . 
+
+RIGHTS AND OBLIGATIONS OF CONSULTANT
+
+The Consultant will ensure that the Services are rendered in terms of this Agreement. 
+
+
+The Consultant acts as an independent contractor and agrees 
+
+
+to comply with all lawful and reasonable requests of YES given to the Consultant from time to time in relation the Services  
+
+
+to carry out the Services in a professional manner in line with the standards and quality required by Yes 
+
+
+to comply with Yess Disciplinary Policy and Code of Conduct, or similar policy document, in the execution of the Services 
+
+
+In rendering the Services and obligations in this Agreement, the Consultant wont do anything or omit to do anything which may negatively affect the business interests, reputation or goodwill of Yes or of any Yes funders, partners or clients. 
+
+YES OBLIGATIONS
+
+YES will provide all reasonable assistance and cooperation to the Consultant in connection with the performance of the Consultants obligations under this Agreement provided that such assistance does not incur any unreasonable or unnecessary additional expense to YES and 
+
+
+pay a fee to the Consultant in terms of clause 10 in return for the performance of the Services in terms of this Agreement. 
+
+INDEMNITIES BY CONSULTANT
+
+The Consultant indemnifies and holds Yes harmless against all and any claims by the South African Revenue Services, or any other receiver of revenue, howsoever arising, and in relation to the fee for the Services, or for income and any other taxes in respect of the Consultant. 
+
+YES RESERVED RIGHTS
+
+Yes may engage other independent contractors, companies or individuals to perform services that are the same as or similar to the Services performed by the Consultant. 
+
+
+Yes may vary the Services which the Consultant provides by withdrawing functions or certain of the Services the Consultant is required to perform or adding new functions which the Consultant is required to perform. Yes must provide the Consultant with reasonable written notice of any changes and will pay for any services rendered up to that point as per the original Agreement. Any changes will be agreed by both parties and a new fee structure agreed upon. 
+
+notused
+
+
+FEE
+
+Yes will pay the Consultant on a monthly fee basis as indicated in Annexure A. The Consultant Fee shall be paid into the Consultants nominated bank account. The Consultant must submit a valid invoice to Yes. 
+
+
+The Consultant shall be responsible for all expenses, payments, travel costs and the like incurred by the
+Consultant in the provision of the Services, where such Services are rendered within the province of Gauteng. Yes shall be responsible for all expenses, disbursements, travel costs and the like incurred by the Consultant in the provision of the Services if agreed to in writing by the parties, where such Services are rendered outside of the province of Gauteng.  
+
+notused
+
+
+TERMINATION
+
+This Agreement shall automatically terminate on @EndDate.  
+
+
+Either party may also terminate this Agreement on two weeks written notice. The Consultant shall be paid for all Services properly rendered to the termination date. 
+
+
+Despite clause ##e96740## , Yes may terminate this Agreement summarily for any reason valid in law or if the Consultant: 
+
+
+is guilty of conduct which is likely to bring the Yes, its funders, partners or clients into disrepute 
+
+
+is convicted of any offence involving dishonesty 
+
+
+is convicted, whether in the Republic of South Africa or elsewhere, of theft, fraud or forgery 
+
+
+breaches any rule or aspect of Yes disciplinary code 
+
+
+is disqualified under any law from carrying on their profession. 
+
+
+On termination of this Agreement, for any reason, the Consultant shall now cease providing the Services. 
+
+
+Any termination of this Agreement, whether under clause ##s26339## or this clause ##s26345## won't affect provisions of this Agreement which are expressly or by implication to come into force or continue in force after termination. 
+
+notused
+Should either party:  
+
+notused
+breach any term of this Agreement and not remedy the breach within 7 (seven) days after receiving written notice to do so, then the innocent Party may, without prejudice to any other rights which is has either in terms of this Agreement or at law, cancel this agreement and claim any damages, which may have arisen out of the breach
+  
+
+notused
+become provisionally or finally liquidated, sequestrated, woundup, permanently incapacitated or die or commit an act of insolvency the other party may cancel this agreement at its election and enforce any performance due from the provisional or final liquidator, sequestrator, curator or executor who will be bound by the terms of this agreement.  
+
+CONFIDENTIALITY
+
+The Consultant unconditionally and irrevocably agrees not to use the Confidential Information, directly or indirectly: 
+
+
+for the Consultants benefit or 
+
+
+for the benefit of any person other than YES, any company in the group of companies to which YES belongs and with YES clear written instructions 
+
+
+to treat and safeguard the Confidential Information as strictly private and confidential 
+
+
+not to use or disclose, directly or indirectly, the Confidential Information in any manner to any third party for any reason without the prior written consent of Yes granted at its sole discretion. 
+
+
+not to reverse engineer, change or alter the Confidential Information and to take all steps necessary to prevent Confidential Information from reaching unauthorised third parties.  
+not to reverse engineer, change or alter the Confidential Information and to take all steps necessary to prevent Confidential Information from reaching unauthorised third parties.  
+
+
+If the Consultant is unsure whether information is confidential or not it shall treat information as confidential until the contrary is agreed to in writing. 
+
+INTELLECTUAL PROPERTY
+
+Any Intellectual Property, inventions or improvements created or discovered by the Consultant in the course and scope of this Agreement, in connection with or relating to the Services shall belong to Yes. The Consultant will sign all documents and do all things necessary to give effect to this clause.  
+Any Intellectual Property, inventions or improvements created or discovered by the Consultant in the course and scope of this Agreement, in connection with or relating to the Services shall belong to Yes. The Consultant will sign all documents and do all things necessary to give effect to this clause.  
+
+
+The Consultant therefore assigns the copyright in all present and future works, including, strategies, processes and programs which the Consultant may have written, which works were or are created, devised or compiled during the course and scope of this Agreement. 
+The Consultant therefore assigns the copyright in all present and future works, including, strategies, processes and programs which the Consultant may have written, which works were or are created, devised or compiled during the course and scope of this Agreement. 
+
+
+In the event that the Parties cocreate any intellectual property it is agreed that such intellectual property shall be assigned to Yes. 
+In the event that the Parties cocreate any intellectual property it is agreed that such intellectual property shall be assigned to Yes. 
+
+NOTICES AND LEGAL PROCESS
+
+Each party chooses this address for all purposes under this Agreement (Chosen Address), whether for serving court process or documents, giving any notice, or making any other communications of any nature and for any purpose:  
+
+
+@Party2Full @Party2Addr 
+
+
+A notice is valid only if in writing. 
+
+
+A party may change its Chosen Address to another physical address in the Republic of South Africa by notice to the other parties and that change takes effect on the seventh day after the date of receipt by the last Party. 
+
+
+Despite anything to the contrary in this Agreement, a written notice actually received by a party, including a notice sent by electronic mail, is an adequate notice, to the extent permitted by law and the rules of court, even though not sent or delivered to its Chosen Address. 
+
+ENTIRE AGREEMENT AND VARIATIONS
+
+This Agreement is the whole Agreement. No terms or conditions not contained in this agreement can be relied on. 
+
+
+No variation of or addition to this Agreement will be of any force, unless reduced to writing and signed by both Parties. 
+
+
+No warranty or representation to the other Party which is not contained in this agreement will be of any force. 
+
+INTERPRETATION
+
+Any reference to this agreement to the singular includes the plural and vice versa. 
+
+
+Any reference in this agreement to natural persons includes legal persons and references to any gender include references to other gender and vice versa. 
+
+
+The rule of interpretation that the agreement will be interpreted against the person who has drafted it wont apply. 
+
+RELAXATION
+
+No indulgence, leniency or extension of a right will change the Agreement unless it is reduced to writing and signed by both Parties 
+
+WAIVER
+
+No waiver will constitute a waiver of rights in respect of any later breach of the same or any other provision. 
+
+SEVERABILITY
+
+In the event that any of the terms of this Agreement are found to be invalid, unlawful or unenforceable, such terms will be severable from the remaining terms, which will remain valid and enforceable. ##s26353## 
+
+notused
+For Nomia Africa (Pty) LTD!TC!TCFor @Party2Full!TRwho warrants that they are duly authorised.!TC!TCwho warrants that they are duly authorised.!TRSignature:!TC!TCSignature:!TR@CompSig!TC!TC@PartySig!TRName:!TC!TCName:!TR@CompSigName!TC!TC@PartySigName!TRDesignation:!TC!TCDesignation:!TR@CompSigDesig!TC!TC@PartySigDesig!TRDate:!TC!TCDate:!TR@CompSigDate!TC!TC@PartySigDate!TRat:!TC!TCat:!TR@CompSigLoc!TC!TC@PartySigLoc 
+
+notused
+----- !page-break! -----
+
+notused
+{"type":"Columns"}
+
+Annexure A                                                          
+
+ Services
+
+**The Services shall include:** 
+
+
+**[Services to be rendered].ul**                                                                                                                         **[Monthly Payment].ul**                                                                                                                            
+
+ **[Business Analyst Consultant].ul**                                                                                                                     Fixed consultant fee of **R310,00 per Hour** based on the agreed hourly rate                                                                       
+                                                                                                                                                                                                                                                                                                                  
+ **Role and Deliverables:**                                                                                                                                 Your invoice must be supported by time sheets with actual deliverables and outcomes achieved, sent through to the CIO on a weekly basis for approval. 
+                                                                                                                                                                                                                                                                                                                  
+ Your current responsibilities will be to close off all existing projects and business analyst work that you are still busy with regards to the following:                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                  
+ **Complete requirements elicitation and design**                                                                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                                                                                                  
+    Working with stakeholders to close off on all documented business rules and acceptance criteria as per the Stakeholders Needs and Expectations                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                  
+    Modelling and mapping business processes to be completed                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                                  
+    Coordinating with the development team to get the stories developed                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                                                                                                  
+    Day to day support in requirements clarifications and business rules that require completion                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                  
+    Design and deliver enduser training and training materials and provide technical support as necessary                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                  
+ Your role will not involve any new projects                                                                                                                                                                                                                                                                   
+ 
+
+notused
+----- !page-break! -----
+
+Annexure B - Business Analyst Consultant
+
+**Updated Scope and Deliverables to be agreed per meeting**
+ 
+
+Title Page
+notused
+1737  
+
+notused
+@DocumentDescr
+
+notused
+Contractor Name and ID No: !TC@Party2Full / @Party2Reg!TRPhysical Address: !TC@Party2Addr!TRRole:!TC@Party2Role !TR!TC(hereinafter referred to as the Consultant) 
+Contractor Name and ID No: !TC@Party2Full / @Party2Reg!TRPhysical Address: !TC@Party2Addr!TRRole:!TC@Party2Role !TR!TC(hereinafter referred to as the Consultant) 
+Contractor Name and ID No: !TC@Party2Full / @Party2Reg!TRPhysical Address: !TC@Party2Addr!TRRole:!TC@Party2Role !TR!TC(hereinafter referred to as the Consultant) 
+
+notused
+BETWEEN  
+
+notused
+Employer:!TCNOMIA AFRICA (Pty) LTD!TRReg No:!TC 2017/267641/08!TRDuly represented by: !TC@CompSigName!TRPhysical Address:!TC2 Arnold Road, Rosebank, 2196!TR!TC
+
+
+
+
+(hereinafter referred to as Nomia) 
+Employer:!TCNOMIA AFRICA (Pty) LTD!TRReg No:!TC 2017/267641/08!TRDuly represented by: !TC@CompSigName!TRPhysical Address:!TC2 Arnold Road, Rosebank, 2196!TR!TC
+
+
+
+
+(hereinafter referred to as Nomia) 
+
+notused
+AND  
